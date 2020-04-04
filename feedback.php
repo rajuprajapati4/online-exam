@@ -167,9 +167,9 @@ You can send us your feedback through e-mail on the following e-mail id:<br />
      <img src="image/jb.png" width=100 height=100 alt="JB" class="img-rounded">
      </div>
      <div class="col-md-5">
-    <a href="#" style="color:#202020; font-family:'typo' ; font-size:18px">Johnny Bravo</a>
-    <h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+91-1234567890</h4>
-    <h4 style="font-family:'typo' ">abc123@gmail.com</h4>
+    <a href="#" style="color:#202020; font-family:'typo' ; font-size:18px">Raju Prajapati</a><br>
+    <a href="#" style="color:#202020; font-family:'typo' ; font-size:18px">Shreyas Patil</a><br>
+    <a href="#" style="color:#202020; font-family:'typo' ; font-size:18px">Shantanu Pawar</a>
     <h4 style="font-family:'typo' ">Students of:- SJCEM</h4></div></div>
     </p>
       </div>
